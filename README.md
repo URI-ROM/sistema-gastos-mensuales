@@ -1,3 +1,4 @@
+```bash
 # 💰 Sistema de Administración de Gastos Mensuales
 
 Un sistema desarrollado en Java 21 que permite administrar gastos mensuales utilizando Programación Orientada a Objetos (POO) con clases abstractas e interfaces.
