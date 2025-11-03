@@ -7,12 +7,12 @@ Un sistema desarrollado en Java 21 que permite administrar gastos mensuales util
 
 ## 🎯 Características
 
-- ✅ **Gestión de gastos** por categorías específicas
-- ✅ **Control de presupuesto** mensual establecido
-- ✅ **Diferentes tipos de gastos**: Desayuno, Transporte, Escolares, Ahorros
-- ✅ **Interfaces y clases abstractas** para diseño modular
-- ✅ **Polimorfismo** para manejo uniforme de gastos
-- ✅ **Verificación de gastos esenciales** vs no esenciales
+-  **Gestión de gastos** por categorías específicas
+-  **Control de presupuesto** mensual establecido
+-  **Diferentes tipos de gastos**: Desayuno, Transporte, Escolares, Ahorros
+-  **Interfaces y clases abstractas** para diseño modular
+-  **Polimorfismo** para manejo uniforme de gastos
+-  **Verificación de gastos esenciales** vs no esenciales
 
 
 
@@ -36,10 +36,10 @@ src/
 
 ## 📊 Categorías de Gastos Implementadas
 
-1. **🍎 Desayuno en la Escuela** - $700 mensuales
-2. **🚌 Transporte** - $520 mensuales
-3. **📚 Gastos Escolares** - $20 mensuales
-4. **💰 Ahorros** - $200 mensuales
+1. ** Desayuno en la Escuela** - $700 mensuales
+2. ** Transporte** - $520 mensuales
+3. ** Gastos Escolares** - $20 mensuales
+4. ** Ahorros** - $200 mensuales
 
 **Presupuesto total:** $2,000 mensuales
 
